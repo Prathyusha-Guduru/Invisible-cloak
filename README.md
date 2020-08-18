@@ -2,4 +2,4 @@
 Are you a  Harry Potter fan?  If yes then  you would know what an Invisibility Cloak is. Yes! It’s the cloak that makes Harry Potter invisible. We can make this happen in the real world with just a few line of python code in OpenCV.
 
 
-![](https://giphy.com/gifs/ehCfkoJ8o784cdvQQd)
+![Invisible Cloak](https://giphy.com/gifs/ehCfkoJ8o784cdvQQd)
