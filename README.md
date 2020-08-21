@@ -3,4 +3,4 @@ Are you a  Harry Potter fan?  If yes then  you would know what an Invisibility C
 
 This is how it looks like:
 
-![Demo](https://github.com/Prathyusha-Guduru/Data/blob/master/Invisible%20cloak.gif)
+![Demo](https://github.com/Prathyusha-Guduru/Data/blob/master/Invisible%20cloak.gif)  
